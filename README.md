@@ -1,3 +1,8 @@
+# ResumeGen AI – Landing Page
+
+This project is a responsive landing page for “ResumeGen AI”, built with Next.js and Tailwind CSS.
+
+Vercel’s v0 tool was used to generate the main navbar and footer components, which were then customized for branding and layout. All main sections of the page (Hero, Features, Testimonials, Pricing) were coded manually using React components and Tailwind utilities.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
